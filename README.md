@@ -1,4 +1,6 @@
-#Coursework for Principles of Object-oriented Programming II, Tampere University spring 2020
+## To be noted
+
+Apulaiset-package is written by Jorma Laurikkala, lecturer of Tampere University.
 
 ## Startup
 
@@ -39,7 +41,3 @@ number///date///news here
 - echo
   - prints users input to the terminal: useful for testing. Can be switched off and on with the command.
 - quit
-
-## To be noted
-
-Apulaiset-package is written by Jorma Laurikkala, lecturer of Tampere University.
