@@ -15,6 +15,7 @@ Document files need to be formatted as described below.
 
 Jokes:
 number///type///joke here
+
 News:
 number///date///news here
 
